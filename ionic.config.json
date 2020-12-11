@@ -1,0 +1,7 @@
+{
+  "name": "cat-clerk-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
